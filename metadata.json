@@ -1,0 +1,6 @@
+{
+  "name": "AGENTOPS",
+  "description": "Observe Every Agent. Understand Every Decision. Premium AI Runtime & Observability Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
